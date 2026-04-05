@@ -450,12 +450,6 @@ We welcome contributions! Here's how you can help:
 - Add usage examples
 - Translate to other languages
 
-## 🙏 Credits & Acknowledgments
-
-### **Main Developer**
-- **NoxxOP** - Creator and Lead Developer
-  - GitHub: [@NoxxOP](https://github.com/NoxxOP)
-  - Telegram: [@WTF_WhyMeeh](https://t.me/WTF_WhyMeeh)
 
 ### **Special Thanks**
 - **Pyrogram** - Telegram MTProto API Framework
@@ -481,29 +475,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - ❌ Liability protection
 - ❌ Warranty provided
 
-## 🔗 Important Links
-
-### **Support & Community**
-- 📢 **Support Channel**: [@ShrutiBots](https://t.me/ShrutiBots)
-- 💬 **Support Group**: [@ShrutiBotSupport](https://t.me/ShrutiBotSupport)
-- 🔧 **Session Generator**: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
-
-### **Developer Resources**
-- 📚 **Documentation**: [Wiki](https://github.com/NoxxOP/ShrutixMusic/wiki)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/NoxxOP/ShrutixMusic/issues)
-- 🔄 **Pull Requests**: [GitHub PRs](https://github.com/NoxxOP/ShrutixMusic/pulls)
-- ⭐ **Discussions**: [GitHub Discussions](https://github.com/NoxxOP/ShrutixMusic/discussions)
-
----
-
-<p align="center">
-<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-NoxxOP-red?style=for-the-badge" alt="Made with love">
-</p>
-
-<p align="center">
-<b>🎵 Experience Premium Music with ShrutixMusic Bot! 🎵</b>
-</p>
-
-<p align="center">
-<i>Star ⭐ this repository if you found it helpful!</i>
-</p>
