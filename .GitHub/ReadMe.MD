@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NoxxOP/ShrutixMusic/main/ShrutixMusic/assets/ShrutixMusic.png" alt="ShrutixMusic Bot Logo" width="500px">
-</p>
 
 <h1 align="center">🎵˹Vᴀɴʏᴀ Mᴜsɪᴄ˼ 🎵</h1>
 
@@ -19,12 +16,6 @@
   <a href="https://github.com/NoxxOP/ShrutixMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutixMusic?style=social" alt="GitHub Stars"></a>
   <a href="https://github.com/NoxxOP/ShrutixMusic/graphs/contributors"><img src="https://img.shields.io/github/contributors/NoxxOP/ShrutixMusic?style=social" alt="GitHub Contributors"></a>
   <a href="https://github.com/NoxxOP/ShrutixMusic/issues"><img src="https://img.shields.io/github/issues/NoxxOP/ShrutixMusic?style=social" alt="GitHub Issues"></a>
-</p>
-
-## 🌟 Quick Deploy
-
-<p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutixMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white" width="200px" alt="Deploy to Heroku"></a>
 </p>
 
 <h2 align="center">🚀 Deploy to Render (Free Hosting)</h2>
@@ -73,18 +64,6 @@
 - **Music Search**: Advanced search with filters
 - **Trending Music**: Discover popular tracks
 - **Genre-Based Playlists**: Curated music collections
-
-## 📊 Repository Statistics
-
-<p align="center">
-  <a href="https://github.com/NoxxOP/ShrutixMusic"><img src="https://img.shields.io/github/repo-size/NoxxOP/ShrutixMusic?style=flat-square&color=green" alt="Repo Size"></a>
-  <a href="https://github.com/NoxxOP/ShrutixMusic/issues"><img src="https://img.shields.io/github/issues/NoxxOP/ShrutixMusic?style=flat-square&color=red" alt="Issues"></a>
-  <a href="https://github.com/NoxxOP/ShrutixMusic/pulls"><img src="https://img.shields.io/github/issues-pr/NoxxOP/ShrutixMusic?style=flat-square&color=yellow" alt="Pull Requests"></a>
-  <a href="https://github.com/NoxxOP/ShrutixMusic/network/members"><img src="https://img.shields.io/github/forks/NoxxOP/ShrutixMusic?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/NoxxOP/ShrutixMusic/stargazers"><img src="https://img.shields.io/github/stars/NoxxOP/ShrutixMusic?style=flat-square&color=orange" alt="Stars"></a>
-  <a href="https://github.com/NoxxOP/ShrutixMusic/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NoxxOP/ShrutixMusic?style=flat-square&color=purple" alt="LICENSE"></a>
-  <a href="https://github.com/NoxxOP/ShrutixMusic/commits/main"><img src="https://img.shields.io/github/last-commit/NoxxOP/ShrutixMusic?style=flat-square&color=lightblue" alt="Last Commit"></a>
-</p>
 
 ## 🎯 Bot Commands
 
