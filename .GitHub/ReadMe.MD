@@ -227,13 +227,6 @@ sudo systemctl status shrutixmusic
 journalctl -u shrutixmusic -f
 ```
 
-## 🔑 Session String Generation
-
-### **Method 1: Telegram Bot (Easiest)**
-1. Start [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
-2. Send your phone number with country code
-3. Enter the OTP you receive
-4. Copy the generated session string
 
 ### **Method 2: Online Generator**
 Visit: [Session Generator](https://session-generator-tau.vercel.app/)
